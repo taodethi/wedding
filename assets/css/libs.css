@@ -1,8 +1,8 @@
 /*css/themify-icons.css*/
 @font-face {
   font-family: 'themify';
-  src: url(https://taodethi.github.io/wedding/assets/font/themify9f24.eot?-fvbane);
-  src: url(https://taodethi.github.io/wedding/assets/font/themifyd41d.eot?#iefix-fvbane) format("embedded-opentype"), url(https://taodethi.github.io/wedding/assets/font/themify9f24.woff?-fvbane) format("woff"), url(https://taodethi.github.io/wedding/assets/font/themify9f24.ttf?-fvbane) format("truetype"), url(https://taodethi.github.io/wedding/assets/font/themify9f24.svg?-fvbane#themify) format("svg");
+  src: url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/themify9f24.eot?-fvbane);
+  src: url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/themifyd41d.eot?#iefix-fvbane) format("embedded-opentype"), url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/themify9f24.woff?-fvbane) format("woff"), url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/themify9f24.ttf?-fvbane) format("truetype"), url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/themify9f24.svg?-fvbane#themify) format("svg");
   font-weight: 400;
   font-style: normal
 }
@@ -1434,15 +1434,15 @@
   */
 @font-face {
   font-family: "Flaticon";
-  src: url(https://taodethi.github.io/wedding/assets/font/Flaticon.eot);
-  src: url(https://taodethi.github.io/wedding/assets/font/Flaticond41d.eot?#iefix) format("embedded-opentype"), url(https://taodethi.github.io/wedding/assets/font/Flaticon.woff2) format("woff2"), url(https://taodethi.github.io/wedding/assets/font/Flaticon.woff) format("woff"), url(https://taodethi.github.io/wedding/assets/font/Flaticon.ttf) format("truetype"), url(https://taodethi.github.io/wedding/assets/font/Flaticon.svg#Flaticon) format("svg");
+  src: url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/Flaticon.eot);
+  src: url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/Flaticond41d.eot?#iefix) format("embedded-opentype"), url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/Flaticon.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/Flaticon.woff) format("woff"), url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/Flaticon.ttf) format("truetype"), url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/Flaticon.svg#Flaticon) format("svg");
   font-weight: 400;
   font-style: normal
 }
 
 @font-face {
   font-family: "Flaticon";
-  src: url(https://taodethi.github.io/wedding/assets/font/Flaticon.svg#Flaticon) format("svg")
+  src: url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/Flaticon.svg#Flaticon) format("svg")
 }
 
 [class^="flaticon-"]:before,
@@ -1904,8 +1904,8 @@ th {
 
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url(https://taodethi.github.io/wedding/assets/font/glyphicons-halflings-regular.eot);
-  src: url(https://taodethi.github.io/wedding/assets/font/glyphicons-halflings-regulard41d.eot?#iefix) format('embedded-opentype'), url(https://taodethi.github.io/wedding/assets/font/glyphicons-halflings-regular.woff2) format('woff2'), url(https://taodethi.github.io/wedding/assets/font/glyphicons-halflings-regular.woff) format('woff'), url(https://taodethi.github.io/wedding/assets/font/glyphicons-halflings-regular.ttf) format('truetype'), url(https://taodethi.github.io/wedding/assets/font/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg')
+  src: url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/glyphicons-halflings-regular.eot);
+  src: url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/glyphicons-halflings-regulard41d.eot?#iefix) format('embedded-opentype'), url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/glyphicons-halflings-regular.woff2) format('woff2'), url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/glyphicons-halflings-regular.woff) format('woff'), url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/glyphicons-halflings-regular.ttf) format('truetype'), url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg')
 }
 
 .glyphicon {
@@ -13910,8 +13910,8 @@ button.close {
   font-family: 'slick';
   font-weight: 400;
   font-style: normal;
-  src: url(https://taodethi.github.io/wedding/assets/font/slick.eot);
-  src: url(https://taodethi.github.io/wedding/assets/font/slickd41d.eot?#iefix) format("embedded-opentype"), url(https://taodethi.github.io/wedding/assets/font/slick.woff) format("woff"), url(https://taodethi.github.io/wedding/assets/font/slick.ttf) format("truetype"), url(https://taodethi.github.io/wedding/assets/font/slick.svg#slick) format("svg")
+  src: url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/slick.eot);
+  src: url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/slickd41d.eot?#iefix) format("embedded-opentype"), url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/slick.woff) format("woff"), url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/slick.ttf) format("truetype"), url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/font/slick.svg#slick) format("svg")
 }
 
 .slick-prev,
