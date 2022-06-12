@@ -398,7 +398,7 @@ img {
 
 .section-title:before {
   content: "";
-  background: url("https://taodethi.github.io/wedding/assets/img/sec-title-flower.png") center center/cover no-repeat local;
+  background: url("https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/sec-title-flower.png") center center/cover no-repeat local;
   width: 126px;
   height: 59px;
   position: absolute;
@@ -627,7 +627,7 @@ img {
 }
 
 .form select {
-  background: url(https://taodethi.github.io/wedding/assets/img/select-icon.png) no-repeat right center;
+  background: url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/select-icon.png) no-repeat right center;
   display: inline-block;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -2588,13 +2588,13 @@ img {
 	static-hero
 --------------------------------------------------------------*/
 .static-hero {
-  background: url("https://taodethi.github.io/wedding/assets/img/slider/slide-1.jpg") center center/cover no-repeat local;
+  background: url("https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/slider/slide-1.jpg") center center/cover no-repeat local;
 }
 
 .static-hero-s2, .static-hero-s3, .static-hero-s4 {
   height: 700px;
   background-color: #b2c9d3;
-  background-image: url("https://taodethi.github.io/wedding/assets/img/slider/hero-women.png");
+  background-image: url("https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/slider/hero-women.png");
   background-position: center bottom;
   background-size: auto;
   background-repeat: no-repeat;
@@ -2650,13 +2650,13 @@ img {
 }
 
 .static-hero-s3 {
-  background: url("https://taodethi.github.io/wedding/assets/img/slider/slide-1.jpg") center center/cover no-repeat local;
+  background: url("https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/slider/slide-1.jpg") center center/cover no-repeat local;
   position: relative;
 }
 
 .static-hero-s3:before {
   content: "";
-  background: url("https://taodethi.github.io/wedding/assets/img/slider/shape.png") center center/cover no-repeat local;
+  background: url("https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/slider/shape.png") center center/cover no-repeat local;
   width: 100%;
   height: 190px;
   position: absolute;
@@ -2669,7 +2669,7 @@ img {
 }
 
 .static-hero-s4 {
-  background: url("https://taodethi.github.io/wedding/assets/img/slider/slide-2.jpg") center center/cover no-repeat local;
+  background: url("https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/slider/slide-2.jpg") center center/cover no-repeat local;
 }
 
 .flower-fixed-body {
@@ -2726,7 +2726,7 @@ img {
 
 .flower-fixed-body-s2:before {
   content: "";
-  background: url("https://taodethi.github.io/wedding/assets/img/flower-pattern-3.png") center center/100% no-repeat local;
+  background: url("https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/flower-pattern-3.png") center center/100% no-repeat local;
   width: 250px;
   height: 355px;
   position: fixed;
@@ -2751,7 +2751,7 @@ img {
 
 .flower-fixed-body-s2:after {
   content: "";
-  background: url("https://taodethi.github.io/wedding/assets/img/flower-pattern-4.png") center center/100% no-repeat local;
+  background: url("https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/flower-pattern-4.png") center center/100% no-repeat local;
   width: 250px;
   height: 353px;
   position: fixed;
@@ -2777,7 +2777,7 @@ img {
 #0.5	footer
 --------------------------------------------------------------*/
 .footer-style-1 {
-  background: url("https://taodethi.github.io/wedding/assets/img/footer-shape.png") center bottom/100% no-repeat local;
+  background: url("https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/footer-shape.png") center bottom/100% no-repeat local;
   text-align: center;
   height: 100vh;
   min-height: 900px;
@@ -2807,7 +2807,7 @@ img {
 }
 
 .footer-style-1 .couple-pic {
-  background: url("https://taodethi.github.io/wedding/assets/img/footer-couple-pic-frame.png") center center/cover no-repeat local;
+  background: url("https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/footer-couple-pic-frame.png") center center/cover no-repeat local;
   width: 511px;
   height: 470px;
   margin: 0 auto;
@@ -3333,7 +3333,7 @@ img {
 }
 
 .invitation-section .invitation-box .left-vec {
-  background: url("https://taodethi.github.io/wedding/assets/img/invitation-left-img.png") center center/cover no-repeat local;
+  background: url("https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/invitation-left-img.png") center center/cover no-repeat local;
   width: 220px;
   height: 414px;
   position: absolute;
@@ -3353,7 +3353,7 @@ img {
 }
 
 .invitation-section .invitation-box .right-vec {
-  background: url("https://taodethi.github.io/wedding/assets/img/invitation-right-image.png") center center/cover no-repeat local;
+  background: url("https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/invitation-right-image.png") center center/cover no-repeat local;
   width: 400px;
   height: 508px;
   position: absolute;
@@ -3976,7 +3976,7 @@ img {
 
 .contact-section .contact-form:after {
   content: "";
-  background: url("https://taodethi.github.io/wedding/assets/img/rsvp-flower.png") center center/cover no-repeat local;
+  background: url("https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/rsvp-flower.png") center center/cover no-repeat local;
   width: 982px;
   height: 405px;
   position: absolute;
@@ -4054,7 +4054,7 @@ img {
 
 .contact-section .form select {
   color: #797979;
-  background: #fbfbfb url(https://taodethi.github.io/wedding/assets/img/select-icon.png) no-repeat calc(100% - 15px) center;
+  background: #fbfbfb url(https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/select-icon.png) no-repeat calc(100% - 15px) center;
   opacity: 1;
 }
 
@@ -4109,7 +4109,7 @@ img {
 }
 
 .event-section .top-area {
-  background: url("https://taodethi.github.io/wedding/assets/img/event-bg.jpg") center center/cover no-repeat local;
+  background: url("https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/event-bg.jpg") center center/cover no-repeat local;
   text-align: center;
   width: 100%;
   height: 60%;
@@ -4521,7 +4521,7 @@ img {
 
 .find-book-section:after {
   content: "";
-  background: url("https://taodethi.github.io/wedding/assets/img/find-book-flower.png") center center/cover no-repeat local;
+  background: url("https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/find-book-flower.png") center center/cover no-repeat local;
   width: 648px;
   height: 413px;
   position: absolute;
@@ -6109,7 +6109,7 @@ img {
 
 .pricing-section .pricing-header:before {
   content: "";
-  background: url("https://taodethi.github.io/wedding/assets/img/pricing-header-bg.png") center center/cover no-repeat local;
+  background: url("https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/pricing-header-bg.png") center center/cover no-repeat local;
   width: 100%;
   height: 100%;
   position: absolute;
@@ -7879,5 +7879,5 @@ img {
 .video-section .top-area:before{
 	background: rgba(0, 0, 0, .2);
 }
-.section-bg-img{background: url("https://taodethi.github.io/wedding/assets/img/bg.png")!important;}
+.section-bg-img{background: url("https://cdn.jsdelivr.net/gh/taodethi/wedding/assets/img/bg.png")!important;}
 .section-bg-color{background:#F2EDED!important;}
